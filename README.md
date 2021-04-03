@@ -79,7 +79,7 @@ This project was made using the follow technologies:
 - [Yarn](https://yarnpkg.com/)
 - [Vercel (hosting)](https://vercel.com/)
 
-# 🚀 Object / Features
+# 🚀 Features
 
 - Responsive Github UI Clone (partial) for study purposes.
 - Light and Dark theme (Click on github icon to switch)
