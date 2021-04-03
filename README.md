@@ -47,7 +47,7 @@ contributors
 
 - [Live Website](#eyes-live-website)
 - [Technologies](#computer-technologies)
-- [Object / Features](#rocket-features)
+- [Purpose and Features](#dart-purpose-and-features)
 - [How to Run](#construction_worker-how-to-run)
 - [Found a bug? Missing a specific feature?](#bug-issues)
 - [Contributing](#tada-contributing)
@@ -79,7 +79,7 @@ This project was made using the follow technologies:
 - [Yarn](https://yarnpkg.com/)
 - [Netlify (hosting)](https://netlify.com/)
 
-# :rocket: Features
+# :dart: Purpose and Features
 
 - Responsive Github UI Clone (partial) for study purposes.
 - Light and Dark theme (Click on github icon to switch)
