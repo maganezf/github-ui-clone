@@ -43,17 +43,17 @@ contributors
 
 </div>
 
-# 📌 Table of Contents
+# :pushpin: Table of Contents
 
-- [Live Website](#👀-live-website)
-- [Technologies](#💻-technologies)
-- [Object / Features](#🚀-features)
-- [How to Run](#👷-how-to-run)
-- [Found a bug? Missing a specific feature?](#🐛-issues)
-- [Contributing](#🎉-contributing)
-- [License](#📕-license)
+- [Live Website](#eyes-live-website)
+- [Technologies](#computer-technologies)
+- [Object / Features](#rocket-features)
+- [How to Run](#construction_worker-how-to-run)
+- [Found a bug? Missing a specific feature?](#bug-issues)
+- [Contributing](#tada-contributing)
+- [License](#closed_book-license)
 
-<h2 align="left"> 🤩 Layout: </h2>
+<h2 align="left"> 🎨 Layout:</h2>
 <p align="center">
   <div align="center">
     <img src="./.github/screenshot-light.png" width="400px" style='border-radius: 6px;' />
@@ -62,11 +62,11 @@ contributors
   <br/>
 </p>
 
-# 👀 Live Website
+# :eyes: Live Website
 
 👉 [Click to open Website here](https://github-ui-clone-maganezf.netlify.app/)
 
-# 💻 Technologies
+# :computer: Technologies
 
 This project was made using the follow technologies:
 
@@ -79,12 +79,14 @@ This project was made using the follow technologies:
 - [Yarn](https://yarnpkg.com/)
 - [Vercel (hosting)](https://vercel.com/)
 
-# 🚀 Features
+# :rocket: Features
 
 - Responsive Github UI Clone (partial) for study purposes.
 - Light and Dark theme (Click on github icon to switch)
 
-# 👷 How to Run
+# :construction_worker: How to Run
+
+### 💻 Run Project locally
 
 ```bash
 # Install Dependencies
@@ -96,11 +98,11 @@ $ yarn start
 
 Go to http://localhost:3000/ to see the result.
 
-# 🐛 Issues
+# :bug: Issues
 
 Feel free to **file a new issue** with a respective title and description on the the [GitHub UI Clone](https://github.com/maganezf/github-ui-clone/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
 
-# 🎉 Contributing
+# :tada: Contributing
 
 First of all, thank you for being interested in helping out, your time is always appreciated in every way. 💯
 
@@ -111,7 +113,7 @@ Here's some tips:
 
 Check out the [contributing](./CONTRIBUTING) page to see the best places to file issues, start discussions and begin contributing.
 
-# 📕 License
+# :closed_book: License
 
 Released in 2021 📕 License
 
