@@ -45,13 +45,13 @@ contributors
 
 # 📌 Table of Contents
 
-- [Live Website](#eyes-live-website)
-- [Technologies](#computer-technologies)
-- [Features](#rocket-features)
-- [How to Run](#construction_worker-how-to-run)
-- [Found a bug? Missing a specific feature?](#bug-issues)
-- [Contributing](#tada-contributing)
-- [License](#closed_book-license)
+- [Live Website](#👀-live-website)
+- [Technologies](#💻-technologies)
+- [Object / Features](#🚀-features)
+- [How to Run](#👷-how-to-run)
+- [Found a bug? Missing a specific feature?](#🐛-issues)
+- [Contributing](#🎉-contributing)
+- [License](#📕-license)
 
 <h2 align="left"> 🤩 Layout: </h2>
 <p align="center">
