@@ -77,7 +77,7 @@ This project was made using the follow technologies:
 - [SASS / SCSS](https://sass-lang.com/)
 - [Styled Components](https://styled-components.com/)
 - [Yarn](https://yarnpkg.com/)
-- [Vercel (hosting)](https://vercel.com/)
+- [Netlify (hosting)](https://netlify.com/)
 
 # :rocket: Features
 
