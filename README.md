@@ -84,7 +84,7 @@ This project was made using the follow technologies:
 - Responsive Github UI Clone (partial) for study purposes.
 - Light and Dark theme (Click on github icon to switch)
 
-### 👷 How to Run
+# 👷 How to Run
 
 ```bash
 # Install Dependencies
